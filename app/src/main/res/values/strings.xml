@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreetingTextPlan</string>
+    <string name="welcome_line">Welcome To Android World!</string>
+    <string name="submit">SUBMIT</string>
+    <string name="name">Name</string>
+    <string name="hintaskname">Enter your Name</string>
+    <string name="secondactivity">SecondActivity</string>
+</resources>
